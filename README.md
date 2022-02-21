@@ -4,7 +4,7 @@ Hey, I'm Gabriel Vasconcelos
 
 Information:
 
-🌱 I’m currently on a bootcamp on "Capgemini Fullstack Java and Angular"
+🌱 I’m currently on a bootcamp "Eduzz Fullstack Developer #3 on dio.me"
 
 💬 Ask me about Anything related to Tech and Anime.
 
