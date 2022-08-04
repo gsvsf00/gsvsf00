@@ -4,7 +4,7 @@ Hey, I'm Gabriel Vasconcelos
 
 Information:
 
-🌱 I’m currently on a bootcamp "Eduzz Fullstack Developer #3 on dio.me"
+🌱 I’m currently studying python on [Udemy](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
 
 💬 Ask me about Anything related to Tech and Anime.
 
