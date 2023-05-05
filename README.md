@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Vasconcelos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsvsf00&label=Profile%20views&color=0e75b6&style=flat" alt="gsvsf00" /> </p>
 
-- 🔭 I’m currently working on [QuartoDoEstudante](https://github.com/QuartoDoEstudante)
+- 🔭 I’m currently working on this project [QuartoDoEstudante](https://github.com/QuartoDoEstudante)
 
 - 🌱 I’m currently learning **JS, C#, Python**
 
